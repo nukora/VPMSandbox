@@ -1,0 +1,27 @@
+{
+  "name": "jp.nukora.vpmsandbox",
+  "displayName": "VPMSandbox",
+  "version": "0.0.1",
+  "description": "VPMパッケージ化のテストです。",
+  "gitDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.udonsharp": "1.1.4"
+  },
+  "legacyFolders": {
+    "Assets\\VPMSandbox": ""
+  },
+  "legacyFiles": {},
+  "author": {
+    "name": "Nukora",
+    "url": "https://github.com/nukora/VPMSandbox"
+  },
+  "type": "sample",
+  "unity": "2019.4",
+  "samples": [
+    {
+      "displayName": "Sample1",
+      "description": "サンプル1",
+      "path": "Samples/Sample1"
+    }
+  ]
+}
